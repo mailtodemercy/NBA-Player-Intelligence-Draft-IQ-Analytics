@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Executive Summary
-This project analyzes NBA player performance for the 2023-2024 season across 572 qualified players[cite: 9]. The solution evaluates total player contribution via a custom Performance Index, tracks blurring positional boundaries, and identifies high-efficiency "hidden gems" playing limited minutes[cite: 9, 10, 11].
+This project analyzes NBA player performance for the 2023-2024 season across 572 qualified players. The solution evaluates total player contribution via a custom Performance Index, tracks blurring positional boundaries, and identifies high-efficiency "hidden gems" playing limited minutes.
 
 ---
 
