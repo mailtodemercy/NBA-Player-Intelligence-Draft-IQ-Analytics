@@ -1,7 +1,5 @@
 # 🏀 NBA Player Intelligence: Draft IQ Analytics Season 23-24
 
-![Power BI (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://microsoft.com/power-bi)
-
 ---
 
 ## 📋 Executive Summary
